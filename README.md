@@ -33,11 +33,11 @@
 
   ---
 
-![Visitas al perfil](https://gpvc.arturio.dev/PabloMuYAnYO)  <img src="https://img.shields.io/github/followers/PabloMuYAnYO?label=Follow" style=" float:left, margin-right:10px" />
+![Visitas al perfil](https://gpvc.arturio.dev/PikaCode5900)  <img src="https://img.shields.io/github/followers/PikaCode5900?label=Follow" style=" float:left, margin-right:10px" />
 
 ## Mis Stats de GitHub
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PikaCode5900&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PikaCode5900&layout=compact&theme=buefy&hide_border=true" /></a> |
+| [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PikaCode5900&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)</a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PikaCode5900&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
