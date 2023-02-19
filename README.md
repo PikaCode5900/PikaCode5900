@@ -33,7 +33,9 @@
 
   ---
 
-![](https://komarev.com/ghpvc/?username=PikaCode5900)  <img src="https://img.shields.io/github/followers/PikaCode5900?label=Follow" style=" float:left, margin-right:10px" />
+**-- GitHub Social ➡️**![](https://komarev.com/ghpvc/?username=PikaCode5900)  <img src="https://img.shields.io/github/followers/PikaCode5900?label=Follow" style=" float:left, margin-right:10px" />
+
+**-- Other Social ➡️**![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUR2zgitEWb5n7T4GvyBoSQ?style=social)![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUR2zgitEWb5n7T4GvyBoSQ?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/PikaBoss59_YT?style=social)
 
 ## Mis Stats de GitHub
 
