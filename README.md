@@ -33,7 +33,7 @@
 
   ---
 
-![Visitas al perfil](https://gpvc.arturio.dev/PikaCode5900)  <img src="https://img.shields.io/github/followers/PikaCode5900?label=Follow" style=" float:left, margin-right:10px" />
+![](https://komarev.com/ghpvc/?username=PikaCode5900)  <img src="https://img.shields.io/github/followers/PikaCode5900?label=Follow" style=" float:left, margin-right:10px" />
 
 ## Mis Stats de GitHub
 
