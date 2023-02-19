@@ -33,14 +33,15 @@
 
   ---
 
-**-- GitHub Social ➡️**![](https://komarev.com/ghpvc/?username=PikaCode5900)  <img src="https://img.shields.io/github/followers/PikaCode5900?label=Follow" style=" float:left, margin-right:10px" />
 
-**-- Other Social ➡️**![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUR2zgitEWb5n7T4GvyBoSQ?style=social)![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCUR2zgitEWb5n7T4GvyBoSQ?style=social)![Twitter Follow](https://img.shields.io/twitter/follow/PikaBoss59_YT?style=social)
+
 
 ## Mis Stats de GitHub
 
 | [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PikaCode5900&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)</a> | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PikaCode5900&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+![](https://komarev.com/ghpvc/?username=PikaCode5900)  <img src="https://img.shields.io/github/followers/PikaCode5900?label=Follow" style=" float:left, margin-right:10px" />
 
 
 
