@@ -2,9 +2,9 @@
 
 > Esta es mi cuenta personal, por aquí empezando en esta gran plataforma, aunque guardando solo lo bueno jeje.😉
 >
-> Soy un desarrollador Front end de España `ES`
+> Soy un informático apasionado de la tecnología, y actualmente resido en España `ES`
 >
-> > Aquí tengo planeado subir mis proyectos personales entre otras cosas, si te mueves por algo de lo que hago puede que te sirva algo, no dudes en contactar conmigo en caso de querer utilizar contenido de mi GitHub!
+> > Aquí subiré mis proyectos personales y profesionales. Si crees que lo que he creado podría serte útil y te gustaría usar mi contenido de GitHub, ¡no dudes en contactarme!
 >
 
 - 🔭 **Actualmente estoy trabajando en** proyectos de aprendizaje y expansión de conocimientos.
@@ -26,7 +26,7 @@
 
 - 🤔 **Busco ayuda para** mejorar mis habilidades actuales (Especialmente en Desarrollo Front end)
 
-- 📫 **Cómo contactarme:** ...
+- 📫 **Cómo contactarme:** Mi Telegram: [@PikaBoss59](https://t.me/PikaBoss59)
 
 - 😄 **Pronombres:** él
 
