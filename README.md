@@ -17,11 +17,12 @@
 
   - Diseño y desarrollo de aplicaciones web `"Status": "Aprendiendo"`
   - Diseño gráfico `"Status": "Por aprender"`
-  - Edición de contendido multimedia `"Status": "Mejorando habilidades"`
-  - Fotografía `"Status": "Por aprender"`
   - Montaje y mantenimiento de equipos `"Status": "Mejorando habilidades"`
   - Instalación y mantenimiento de redes `"Status": "Mejorando habilidades"`
   - Aplicaciones Ofimáticas `"Status": "Mejorando habilidades"`
+  - Edición de contendido multimedia `"Status": "Mejorando habilidades"`
+  - Fotografía `"Status": "Por aprender"`
+  - Disc-jockey `"Status": "Por aprender"`
 
 - 🤔 **Busco ayuda para** mejorar mis habilidades actuales (Especialmente en Desarrollo Front end)
 
