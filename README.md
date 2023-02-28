@@ -15,7 +15,7 @@
 
 - 💬 Estas son **mis habilidades actuales o que estoy aprendiendo**, *pregúntame sobre*:
 
-  - Diseño y desarrollo de aplicaciones web `"Status": "Aprendiendo"`
+  - Diseño y desarrollo de aplicaciones web `"Status": "Aprendiendo"` 
   - Diseño gráfico `"Status": "Por aprender"`
   - Montaje y mantenimiento de equipos `"Status": "Mejorando habilidades"`
   - Instalación y mantenimiento de redes `"Status": "Mejorando habilidades"`
@@ -30,8 +30,22 @@
 
 - 😄 **Pronombres:** él
 
-- ⚡ **Dato curioso:** ...
-
+- ⚡ **Datos especiales** sobre mis **habilidades**:
+  - Preferencia equipo DAW `"Preference": "Front-End > Back-end"`
+  
+  - Especialización de DG `"Specialized":`
+  
+    ```javascript
+      let ListSpecialties = [
+        {Area: "multimedia", Improving: "imagen, video", Learning: "audio"},
+        {Area: "publicitaria", Improving: "", Learning: "creación, maquetación, diseño, material visual"},
+        {Area: "tipográfica", Improving: "uso de tipografiás", Learning: "creación, usos especiales, cheats"},
+        {x1: "...", x2: "...", x3: "..."},
+      ];
+    ```
+  
+    
+  
   ---
 
 
@@ -59,4 +73,3 @@
 ### También he trabajado con:
 
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/-Express.js-787878?style=flat"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-
