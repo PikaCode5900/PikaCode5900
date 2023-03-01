@@ -31,9 +31,9 @@
 - 😄 **Pronombres:** él
 
 - ⚡ **Datos especiales** sobre mis **habilidades**:
-  - Preferencia equipo DAW `"Preference": "Front-End > Back-end"`
+  - Preferencia de área/equipo en DAW `"Preference": "Front-End > Back-end"`
   
-  - Especialización de DG `"Specialized":`
+  - Especialización en DG `"Specialized":`
   
     ```javascript
       let ListSpecialties = [
