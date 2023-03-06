@@ -40,7 +40,6 @@
         {Area: "multimedia", Improving: "imagen, video", Learning: "audio"},
         {Area: "publicitaria", Improving: "", Learning: "creación, maquetación, diseño, material visual"},
         {Area: "tipográfica", Improving: "uso de tipografiás", Learning: "creación, usos especiales, cheats"},
-        {x1: "...", x2: "...", x3: "..."},
       ];
     ```
   
@@ -80,4 +79,4 @@
 
 ### Mi historial de estudio:
 
-- Tengo una cuenta secundaría de estudiante, la uso para aprender nuevos conocimientos, buenas prácticas y conocer recursos nuevos de la mano de cursos académicos o sin ningún coste en internet. Puedes ver [**aquí**](https://github.com/PabloMuYAnYO), todo mi historial de proyectos de prueba y aprendizaje principales en GitHub están ahí. 
+- Tengo una cuenta secundaría de estudiante, la uso para aprender nuevos conocimientos, buenas prácticas y conocer recursos nuevos de la mano de cursos académicos o sin ningún coste en internet. Puedes ver [**aquí**](https://github.com/PabloMuYAnYO), todo mi historial de proyectos de prueba y aprendizaje principales en GitHub se encuentran en esa cuenta. 
