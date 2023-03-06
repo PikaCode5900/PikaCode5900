@@ -26,7 +26,7 @@
 
 - 🤔 **Busco ayuda para** mejorar mis habilidades actuales (Especialmente en Desarrollo Front end)
 
-- 📫 **Cómo contactarme:** Mi Telegram: [@PikaBoss59](https://t.me/PikaBoss59)
+- 📫 **Cómo contactarme:** Telegram ➡️ [@PikaBoss59](https://t.me/PikaBoss59)
 
 - 😄 **Pronombres:** él
 
