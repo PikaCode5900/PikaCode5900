@@ -1,10 +1,16 @@
 # BIENVENID@ A MI GITHUB!
 
+> | ℹ️ | README!
+>
 > Esta es mi cuenta personal, por aquí empezando en esta gran plataforma, aunque guardando solo lo bueno jeje.😉
 >
-> Soy un informático apasionado de la tecnología, y actualmente resido en España `ES`
+> Soy un informático apasionado de la tecnología, y actualmente resido en España `ES`🌍
 >
-> > Aquí subiré mis proyectos personales y profesionales. Si crees que lo que he creado podría serte útil y te gustaría usar mi contenido de GitHub, ¡no dudes en contactarme!
+> > Aquí subiré mis proyectos personales y profesionales. Si crees que lo que he creado podría serte útil puedes utilizar mi contenido en GitHub!😁
+> > 
+> > Pero antes solo revisa la licencia pertinente adjuntada en el proyecto y sigue sus directrices por favor!🙏🏻
+>
+> Gracias por tu atención!
 >
 
 - 🔭 **Actualmente estoy trabajando en** proyectos de aprendizaje y expansión de conocimientos.
