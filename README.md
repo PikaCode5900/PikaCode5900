@@ -32,7 +32,7 @@
 
 - 🤔 **Busco ayuda para** mejorar mis habilidades actuales (Especialmente en Desarrollo Front end)
 
-- 📫 **Cómo contactarme:** <img src="https://img.shields.io/static/v1?label=&message=Telegram&color=000000&logo=telegram" style="height: 25px;"> ➡️ [@PikaBoss59](https://t.me/PikaBoss59)
+- 📫 **Cómo contactarme:** <img src="https://img.shields.io/static/v1?label=&message=Telegram&color=000000&logo=telegram" style="height: 25px;"> → [@PikaBoss59](https://t.me/PikaBoss59)
 
 - 😄 **Pronombres:** él
 
@@ -85,4 +85,4 @@
 
 ### Mi historial de estudio:
 
-- Tengo una cuenta secundaría de estudiante, la uso para aprender nuevos conocimientos, buenas prácticas y conocer recursos nuevos de la mano de cursos académicos o sin ningún coste en internet. Puedes ver [**aquí**](https://github.com/PabloMuYAnYO), todo mi historial de proyectos de prueba y aprendizaje principales en GitHub se encuentran en esa cuenta. 
+- Utilizo una cuenta secundaria para adquirir nuevos conocimientos, conocer buenas prácticas y descubrir recursos valiosos. Para alcanzar este objetivo, aprovecho cursos académicos, tanto en formato presencial como en línea, ya sea que tengan un costo o sean gratuitos. Te invito a explorar mi perfil de GitHub [**aquí**](https://github.com/PabloMuYAnYO), donde encontrarás un registro completo de mis proyectos principales de prueba y aprendizaje.
