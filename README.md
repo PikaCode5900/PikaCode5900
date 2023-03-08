@@ -32,7 +32,7 @@
 
 - 🤔 **Busco ayuda para** mejorar mis habilidades actuales (Especialmente en Desarrollo Front end)
 
-- 📫 **Cómo contactarme:** Telegram ➡️ [@PikaBoss59](https://t.me/PikaBoss59)
+- 📫 **Cómo contactarme:** <img src="https://img.shields.io/static/v1?label=&message=Telegram&color=000000&logo=telegram" style="height: 25px;"> ➡️ [@PikaBoss59](https://t.me/PikaBoss59)
 
 - 😄 **Pronombres:** él
 
