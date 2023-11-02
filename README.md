@@ -1,6 +1,8 @@
 # BIENVENID@ A MI GITHUB!
 
+<p align="center">
 <img alt="My logo first version" src="images/my_logo_v0.png" width="400">
+</p>
 
 > | ℹ️ | README!
 >
