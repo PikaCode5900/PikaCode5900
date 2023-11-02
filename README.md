@@ -1,5 +1,8 @@
 # BIENVENID@ A MI GITHUB!
 
+![My logo first version](images/my_logo_v0.png)
+
+
 > | ℹ️ | README!
 >
 > Esta es mi cuenta personal, por aquí empezando en esta gran plataforma, aunque guardando solo lo bueno jeje.😉
