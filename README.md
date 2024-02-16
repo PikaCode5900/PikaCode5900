@@ -1,8 +1,5 @@
 # BIENVENID@ A MI GITHUB!
 
-<p align="center">
-<img alt="My logo first version" src="images/my_logo_v0.png" width="400">
-</p>
 
 > | ℹ️ | README!
 >
@@ -21,11 +18,9 @@
 
 - 🌱 **Actualmente estoy aprendiendo sobre** diseño y desarrollo de aplicaciones web (DAW). 
 
-- 👯 **Busco colaborar en...**
-
 - 💬 Estas son **mis habilidades actuales o que estoy aprendiendo**, *pregúntame sobre*:
 
-  - Diseño y desarrollo de aplicaciones web `"Status": "Aprendiendo"` 
+  - Diseño y desarrollo de aplicaciones web `"Status": "Actualizandome"` 
   - Diseño gráfico `"Status": "Por aprender"`
   - Montaje y mantenimiento de equipos `"Status": "Mejorando habilidades"`
   - Instalación y mantenimiento de redes `"Status": "Mejorando habilidades"`
